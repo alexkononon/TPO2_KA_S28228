@@ -36,7 +36,7 @@ Close the window when finished.
 
 JSON.simple: Library for parsing JSON data.
 
-JavaFX: Library for building Java applications with a WebEngine.
+JavaFX: Library for building Java applications with a WebEngine. (The library is not in the program.)
 ## Credits
 
 OpenWeatherMap API: Provides weather data.
