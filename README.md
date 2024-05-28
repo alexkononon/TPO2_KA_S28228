@@ -16,17 +16,6 @@ The program consists of Java classes that utilize various APIs to retrieve weath
 
 ## Usage
 
-### Command-Line Interface (CLI)
-
-To use the CLI:
-
-Run the `Main` class.
-Follow the prompts to input the country, city, and currency code.
-View the fetched weather information, currency exchange rates, and Wikipedia data in the console output.
-### Graphical User Interface (GUI)
-
-To use the GUI:
-
 Run the `Main` class.
 A GUI window will appear.
 Input the country, city, and currency code in the provided text fields.
@@ -46,9 +35,6 @@ ExchangeRate-API: Provides currency exchange rates.
 NBP API: Provides currency exchange rates for the National Bank of Poland.
 
 Wikipedia: Provides city information.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Launching Example
 Start screen:
@@ -71,5 +57,8 @@ Example result 2:
 
 <img width="912" alt="Screenshot 2024-05-03 at 13 04 33" src="https://github.com/alexkononon/TPO2_KA_S28228/assets/117831770/3d1fd599-45c5-4b22-8869-a7fff946cdff">
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 
