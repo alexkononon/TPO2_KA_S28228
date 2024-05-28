@@ -47,6 +47,9 @@ NBP API: Provides currency exchange rates for the National Bank of Poland.
 
 Wikipedia: Provides city information.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
+
 ## Launching Example
 Start screen:
 
@@ -67,7 +70,6 @@ Example input 2:
 Example result 2:
 
 <img width="912" alt="Screenshot 2024-05-03 at 13 04 33" src="https://github.com/alexkononon/TPO2_KA_S28228/assets/117831770/3d1fd599-45c5-4b22-8869-a7fff946cdff">
-
 
 
 
